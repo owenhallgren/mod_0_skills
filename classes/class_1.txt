@@ -1,0 +1,14 @@
+class: kitchen
+
+attributes:
+foodType (string)
+chefsWorking (integer)
+chefsNames (array)
+ordersIn (integer)
+foodPrepped (boolean)
+
+methods:
+addChef (chef clocks in, adds to chefsWorking)
+addOrder (adds order to ordersIn)
+finishedOrder (subtracts order from ordersIn)
+prepFood (changes value of foodPrepped)
