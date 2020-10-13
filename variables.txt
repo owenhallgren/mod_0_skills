@@ -1,0 +1,9 @@
+var food = 'pizza'
+var isDelicious = true
+food = 'sushi'
+var num2 = 2
+var num7 = 7
+var quotients = num7 / num2
+var songs = ['i will survive', 'e.coli', 'sad song']
+songs.shift()
+var foodLength =food.length;
