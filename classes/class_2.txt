@@ -1,0 +1,13 @@
+class: front of house
+
+attributes:
+serversWorking (integer)
+tablesOccupied (array)
+barOpen (boolean)
+currentBartender (string)
+
+methods:
+cutServer (subtracts from serversWorking)
+sitNew (adds to tablesOccupied)
+openBar (changes value of barOpen)
+changeBartender (changes value of currentBartender)
