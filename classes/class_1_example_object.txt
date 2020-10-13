@@ -1,0 +1,15 @@
+class: Kitchen at Mudrocks (Where I worked)
+
+attributes:
+foodType "bar food"
+chefsWorking 3
+chefsNames ['Owen', 'Avitar', 'Gabe']
+ordersIn 7
+foodPrepped false
+
+methods:
+addChef 4
+addOrder 8
+finishedOrder 6
+prepFood true
+changeMenu "holiday food"
