@@ -1,0 +1,13 @@
+instance: Mudrocks
+
+attributes:
+serversWorking 5
+tablesOccupied ['table6', 'table3', 'table4']
+barOpen false
+currentBartender 'lisa'
+
+methods:
+cutServer 4
+sitNew ['table6', 'table3', 'table4', 'table9']
+openBar true
+changeBartender 'chad'
